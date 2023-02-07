@@ -34,3 +34,4 @@ workflows:
       - scan:
           requires:
             - build
+            
